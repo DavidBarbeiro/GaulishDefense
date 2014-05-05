@@ -1,0 +1,3 @@
+Assets/LowPolyMedievelVillage/Texture/PNG/fireflies_512.png
+Assets/RoadTool/Example/Standard Assets/Skyboxes/Textures/StarryNight/StarryNight_back.tif
+Assets/max/Materials/BACKPACK2NORMAL.PSD

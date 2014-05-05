@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\HPScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\AsterixBehavour.cs" Line="16" Column="1" />
+      <File FileName="..\..\david &amp; pedro &amp; vitor\GaulishDefense\Assets\LowPolyMedievelVillage\Standard Assets\Character Controllers\Sources\Scripts\PlatformInputController.js" Line="1" Column="1" />
+      <File FileName="..\..\david &amp; pedro &amp; vitor\GaulishDefense\Assets\RoadTool\Editor\RoadTool.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainScript.cs" Line="38" Column="6" />
+      <File FileName="Assets\Scripts\HPScript.cs" Line="28" Column="1" />
+      <File FileName="Assets\Scripts\ObelixBehavour.cs" Line="19" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
